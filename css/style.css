@@ -1,0 +1,47 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(../../Images/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+  padding: 3%;
+  border-radius: 20px;
+}
+
+.topLogo {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.paragraph {
+  margin: 8px 0px;
+}
+
+.btnSend {
+  color: #ff0043;
+  border: 1px solid #ff0043;
+  margin-top: 15px;
+  margin-bottom: -10px;
+}
+.btnSend:hover {
+  background-color: #ff0043;
+  color: white;
+}
+
+.footer {
+  margin-top: 60px;
+  margin-bottom: -30px;
+}
+
+/*# sourceMappingURL=style.css.map */
